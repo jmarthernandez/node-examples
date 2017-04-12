@@ -1,0 +1,14 @@
+{
+  "name": "telnet-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Hernandez <jmarthernandez@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.0.1"
+  }
+}
